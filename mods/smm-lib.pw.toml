@@ -1,0 +1,13 @@
+name = "SimpleMainMenu Lib"
+filename = "SimpleMainMenu-Lib-3.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AbWEdxPY/versions/K8gVQzBW/SimpleMainMenu-Lib-3.1.0.jar"
+hash-format = "sha512"
+hash = "732b5de0282023f185fe32b6856534d88f3184e97e1a3b22c7340e587f1018bb3c030f6b8889b73ba06b90cf496211af698ff24b982857dc7bb4e0932aebb050"
+
+[update]
+[update.modrinth]
+mod-id = "AbWEdxPY"
+version = "K8gVQzBW"
