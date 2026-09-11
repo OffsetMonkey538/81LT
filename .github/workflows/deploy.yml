@@ -33,7 +33,7 @@ jobs:
           rm -rf build
           mkdir -p build
           cd misc/prismSource
-          zip -r ../../build/81TE.zip *
+          zip -r ../../build/81LT.zip *
           cd ../../
           cp -r config mods index.toml pack.toml build
           cd mod
