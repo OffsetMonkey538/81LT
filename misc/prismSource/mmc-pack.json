@@ -1,0 +1,29 @@
+{
+    "components": [
+        {
+            "cachedName": "Minecraft",
+            "cachedRequires": [
+                {
+                    "suggests": "3.4.1",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "cachedVersion": "26.2",
+            "important": true,
+            "uid": "net.minecraft",
+            "version": "26.2"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedRequires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "cachedVersion": "0.19.5",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.19.5"
+        }
+    ],
+    "formatVersion": 1
+}
