@@ -35,7 +35,10 @@ jobs:
           cd misc/prismSource
           zip -r ../../build/81LT.zip *
           cd ../../
-          cp -r config mods index.toml pack.toml build
+          cp -r config build || true
+          cp -r mods build || true
+          cp index.toml build || true
+          cp pack.toml build || true
           cd mod
           ./gradlew build
           cd ../build
