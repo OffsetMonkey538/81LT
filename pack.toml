@@ -1,0 +1,15 @@
+name = "81LT"
+author = "OffsetMonkey538"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
+
+[options]
+no-internal-hashes = true
