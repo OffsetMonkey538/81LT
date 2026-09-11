@@ -40,8 +40,8 @@ jobs:
           ./gradlew build
           cd ../build
           cp ../mod/build/libs/*.jar mods/
-          rm mods/*-sources.jar
-          rm mods/*-javadoc.jar
+          rm mods/*-sources.jar || true
+          rm mods/*-javadoc.jar || true
           packwiz refresh --build
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v4
