@@ -22,3 +22,7 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/ultimate-mob-farms.pw.toml"
+metafile = true

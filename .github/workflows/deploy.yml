@@ -33,7 +33,7 @@ jobs:
           rm -rf build
           mkdir -p build
           cd misc/prismSource
-          zip -r ../../build/81LT.zip *
+          zip -r ../../build/JAMS.zip *
           cd ../../
           cp -r config build || true
           cp -r mods build || true
