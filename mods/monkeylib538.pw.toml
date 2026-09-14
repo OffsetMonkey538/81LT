@@ -1,0 +1,13 @@
+name = "MonkeyLib538"
+filename = "monkeylib538-fabric-26.2-5.3.0+fabric+26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYap5A8T/versions/bWqeCV0T/monkeylib538-fabric-26.2-5.3.0%2Bfabric%2B26.2.jar"
+hash-format = "sha512"
+hash = "a8fa77e98b56ecfe116ecac271636836e6844b3df951fbe592f6189c95727f72dac794c2b4c577c12176da0c9e445e331c20e17cbb8bdd55d4e91178515b86bd"
+
+[update]
+[update.modrinth]
+mod-id = "gYap5A8T"
+version = "bWqeCV0T"

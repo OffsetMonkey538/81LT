@@ -12,7 +12,15 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/loot-table-modifier.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/monkeylib538.pw.toml"
 metafile = true
 
 [[files]]
