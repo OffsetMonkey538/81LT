@@ -1,4 +1,5 @@
 misc/
 mod/
 .github/
+.idea/
 .gitmodules
