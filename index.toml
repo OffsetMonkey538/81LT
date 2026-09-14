@@ -24,6 +24,10 @@ file = "mods/monkeylib538.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/smm-lib.pw.toml"
 metafile = true
 
