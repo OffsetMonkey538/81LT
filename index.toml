@@ -4,11 +4,43 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
@@ -21,6 +53,10 @@ metafile = true
 
 [[files]]
 file = "mods/monkeylib538.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
 metafile = true
 
 [[files]]
@@ -37,4 +73,8 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-mob-farms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
 metafile = true
