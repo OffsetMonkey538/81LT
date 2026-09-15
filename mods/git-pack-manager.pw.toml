@@ -1,0 +1,13 @@
+name = "Git Pack Manager"
+filename = "git-pack-manager-fabric-26.1-5.3.2+fabric+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PV38O99l/versions/EMj2OgpX/git-pack-manager-fabric-26.1-5.3.2%2Bfabric%2B26.1.jar"
+hash-format = "sha512"
+hash = "a9c0c522962a3063d50d50af4ee2ec104d3c35bed17a104b69a3231e75d474226adc81cba54f92383b4a134a1acb5ed21438d81d2b2dae8ec4dfcf97404a68e7"
+
+[update]
+[update.modrinth]
+mod-id = "PV38O99l"
+version = "EMj2OgpX"

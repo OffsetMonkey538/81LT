@@ -32,7 +32,15 @@ file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/git-pack-manager.pw.toml"
 metafile = true
 
 [[files]]
@@ -45,6 +53,10 @@ metafile = true
 
 [[files]]
 file = "mods/loot-table-modifier.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mesh-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -69,6 +81,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
 metafile = true
 
 [[files]]

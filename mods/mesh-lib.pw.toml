@@ -1,0 +1,13 @@
+name = "MESH Lib"
+filename = "mesh-lib-fabric-26.1-2.1.1+fabric+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6HncyfPB/versions/GdpXIfzk/mesh-lib-fabric-26.1-2.1.1%2Bfabric%2B26.1.jar"
+hash-format = "sha512"
+hash = "c17239676266181f0ab72fd20c929ffbe72a03d1b53499cf34cffa00e170559c983e847c88c93a37b405d1fb755375c30c1a0412e5c2e3944f0302a3f636c7ba"
+
+[update]
+[update.modrinth]
+mod-id = "6HncyfPB"
+version = "GdpXIfzk"
