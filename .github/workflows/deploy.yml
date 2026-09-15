@@ -39,6 +39,7 @@ jobs:
           cp -r mods build || true
           cp index.toml build || true
           cp pack.toml build || true
+          cp server.dat build || true
           cd mod
           ./gradlew runDatagen
           ./gradlew build
